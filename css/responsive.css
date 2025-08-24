@@ -1,0 +1,918 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.3rem;
+    padding-left: 1.3rem;
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+}	.mobi-tm {
+    margin-left: 270px;
+} 
+	ul.list-mobitim-benefit li {
+      margin: 0 20px 20px 0px;
+    padding: 20px 10px 11px 30px;
+    width: 46%;
+    float: left;
+    position: relative;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    font-size: 14px;
+}
+
+}
+@media screen and (min-device-width:320px) and (max-device-width:767px){
+	
+	.supply-chain-section h3{font-size: 25px;}
+
+	.counter h3{ margin-top:20px; margin-bottom: 0}
+	.stats-text {
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 0px;
+    margin-bottom: 0;
+    text-align: center;
+    color: #000; line-height: 26px;
+}
+	
+	.usp-section {
+    background-size: cover;
+    background-position: 80% top;
+}
+	.navbar-expand-lg .navbar-nav .dropdown-menu {
+ 
+    width: 100%;
+}
+	
+	.it-consulting-services-bg {  background-size: cover; 
+}
+	.uk-bg {background-position: -214px top;}
+	.joinus-section { padding: 40px 0;}
+	.container-gray {
+    padding: 30px 0;
+}ul.list-unique-features li { padding: 6px 20px;
+ 
+}ul.list-unique-features li::before { top: 17px;}
+	.cloud-services-bg {
+    background-position: 70% top;
+}.wcu-cloud-section { padding: 30px 0; }
+.box1 { padding: 20px; margin-bottom: 20px;
+}.governance-bg {
+      background-position: 70% top;
+}ul.list-governance li { margin: 0 0 10px 0;
+      padding: 0px; border-bottom: 1px solid #ededed;
+}.why-choose-us-fpms {  padding: 30px 0;
+}.saas-bg { background-position: 48% top;
+}	.client-bg { 
+    background-position: -200px top;
+}
+	ul.flex-container-modules li {
+    width: 100%;
+  height: auto; 
+    padding: 22px 15px; 
+}
+	.herbs-heading {
+    position: relative;
+    top: 20px;
+    width: 100%;
+}.herbs-heading h3 {
+    font-size: 16px;
+    line-height: 24px;
+}.herbs-mfp {
+    position: absolute;
+    z-index: 1;
+    top: 20px;
+    font-size: 28px;
+    font-weight: 600;
+}
+	.mfp-bg { 
+    background-position: 72% top;
+}.supply-chain-bg { background-position: 54% top; }
+	.mpms-bg {
+    background-position: 49% top;
+}
+	.accounting-bg { 
+    background-position: 35% top;
+}
+	.university-management-system-bg { 
+    background-position: 59% top;
+}.hrms-bg { 
+    background-position: 73% top;
+}.confidential-report-bg { 
+    background-position: 50% top;
+}.file-approval-bg { 
+    background-position: 60% top;
+}.who-we-are-bg { 
+    background-position: 34% top;
+}.why-choose-us-section { 
+    background-position: 80% top;
+}
+	.join-us-bg { 
+    background-position: 87% top;
+}.invoicing-bg { 
+    background-position: 50% top;
+}
+	ul.list-unique-features h4 {
+    margin-bottom: 10px;
+    float: none;
+    display: block;
+    text-align: left;
+}ul.list-mobitim-benefit { margin: 10px 0 0px 0px; 
+}.about-inner-section {
+    padding: 30px 0;
+}.mobi-tim-bg { 
+    background-position: 24% top;
+}
+	.why-custom-development5 ul.list-unique-features li {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}.e-auction-bg {
+    background-position: 66% top;
+}
+	
+	.governance-section {
+    position: relative;
+    padding: 30px 0;
+}.forest-produce-management-system-bg { background-position: 70% top;
+}
+	.ics-advantages ul.list-unique-features li {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}.ics-advantages {
+    background-size: cover;
+    padding: 30px 0 20px;
+}
+	.ics-advantages2 ul.list-unique-features li {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+	.mobile-app-bg { 
+    background-position: 74% top;
+}
+	.logo-case-study {
+    display: block;
+    margin: 0 auto 20px;
+    text-align: center;
+}.numbers-heading { text-align: center; }
+	.up-bg {  background-position: -300px top;
+}
+	.cs-section{    padding: 20px;
+    background-color: #f7f7f7;
+    margin-bottom: 20px;
+    border-radius: 20px;}
+.cs-section .morebtn {    display: block;
+    margin: 0 auto 20px;}
+	.case-study-box {
+    margin-left: 0;
+}
+	.contact-us-bg {
+    background-position: -239px top;
+}
+	.case-study-bg {
+    background-position: -259px top;
+}.case-study-mt {
+    margin-top: 10px;
+}
+	.contact-box {
+    box-shadow: 0 0 50px 10px rgb(158 158 158 / 10%);
+    padding: 0 20px 20px 20px;
+    min-height: auto;
+}
+	.inner-hdng-parent {
+    min-height: 261px;
+}
+	.servicebox1 h3{text-align: right}
+	.servicebox2 h3{text-align: left}
+	.servicebox3 h3{text-align: right}
+	.servicebox4 h3{text-align: left}
+	
+	
+	.list-unique1 ul.list-unique-features li { width: 100%; min-height: auto; text-align: left; }
+		.list-unique2 ul.list-unique-features li { width: 100%; min-height: auto; text-align: left; }
+		.list-unique3 ul.list-unique-features li { width: 100%; min-height: auto; text-align: left; }
+		.list-unique4 ul.list-unique-features li { width: 100%; min-height: auto; text-align: left; }
+	.list-unique5 ul.list-unique-features li { width: 100%; min-height: auto; text-align: left; }
+	.title3 h3 {
+     font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+	ul.list-unique-features li p {  text-align: left;}
+	.ics-advantages ul.list-unique-features li {
+    min-height: auto;
+    width: 100%;
+    text-align: left;
+}
+	ul.list-unique-features li h3 {
+    text-align: left;
+}.main-section {
+    padding: 20px 0;
+}
+	.container70 {
+    padding: 30px 0;
+}.ics-advantages2 ul.list-unique-features li {
+    min-height: auto;
+    width: 100%;
+}.joinus-section ul.list-supplychain li {
+    min-height: auto;
+    width: 100%;
+}.unique-features-section ul.list-unique-features li {
+    /* min-height: 112px; */
+    width: 100%;
+}.advantages-section ul.list-unique-features li {
+    width: 100%;
+}.why-custom-development5 ul.list-unique-features li {
+    min-height: auto;
+    width: 100%;
+}
+	.mobitim-benefit-section {
+    background-image: none;
+  
+    padding: 30px 0;
+ 
+    min-height: auto;
+    background-color: #8d6fd3;
+}ul.list-mobitim-benefit li {
+   
+    margin: 0 0px 0px 0px;
+    padding: 21px 0px 13px 35px;
+    width: 100%;
+    float: none;
+    position: relative;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    font-size: 16px;
+}.supply-chain-section ul.list-unique-features h4 {
+    margin-bottom: 8px;
+    text-align: left; font-size: 20px;
+}.supply-chain-section {
+    background-image: none;
+ 
+}.afms h5 {
+    text-align: center;
+}ul.list-mpms li {
+    width: 100%;
+    float: left;
+    display: block;
+    min-height: auto;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    font-weight: 500;
+    text-align: center;
+}
+	.mpms1 {    margin-top: 10px;}
+	.mpms2 {    margin-top: 10px;}
+	.mpms3 {    margin-top: 10px;}
+	
+	
+	.mobitim-benefit-section h2 {
+    color: #fff;
+    margin-top: 0px;
+}
+	.h3, h3 {
+    font-size: 28px; text-align: center;
+}
+	.inner-hdng { margin-top: 4%; 
+}
+	.footerlogo { margin-bottom: 10px;}
+.footerlogo img{ width: 55%;}
+	ul.flink li { display: block; margin: 5px 0;
+    float: none;
+    width: 100%;
+}.social {
+    float: none;
+}
+	ul.sicons {
+    margin: 0 auto;
+    text-align: center;
+    display: table;
+}
+	.food-card .card .card-content .title {
+    text-align: center;
+}
+	.readmore-products{
+    text-align: center;
+}
+	.copyright {
+    padding: 0; text-align: center;
+}
+	.footer-section p{text-align: center;}
+	.lets h3 {
+    font-size: 25px;
+}.link2 a { font-size: 18px; margin-bottom: 10px; }
+	p.smalltext {
+    margin-top: 30px;
+}
+	.copyright{text-align:left;}
+	.navbar-light .navbar-brand {
+     float: left;
+    width: 79%;
+}.tab button { float: left;
+    width: 33%;
+}.wwr-l-h h3 {
+    font-size: 22px;
+    line-height: 31px;
+    text-align: center;
+}.who-we-are-section {
+    padding: 40px 0;
+}
+	ul.list-ics li {
+    min-height: auto;
+    width: 100%;
+    float: none;
+   
+}
+	.whowr-section {
+    border-bottom: 1px solid #f2ecec;
+  padding: 30px 0;
+}.about-mainpoints .mainpoints-box p {
+    font-size: 16px;
+    line-height: 24px;
+}
+	.mission p {
+    font-size: 16px;
+    line-height: 24px;
+}.mission { width: 100%;
+    padding: 15px;
+    text-align: center;
+    height: auto;
+}.wwr-l-h {    padding: 0px;
+    height: auto;
+	}.wwr-img:before{display:none;}
+	.inner-hdng {
+    width: 70%;
+}.inner-banner-section h5 {
+       line-height: 31px;
+    font-size: 24px;
+}.inner-banner-section {
+    position: relative;
+    display: block;
+    min-height: 250px;
+}
+	.inner-hdng p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+}
+ .list-unique1 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+.list-unique2 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+.list-unique3 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+.list-unique4 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+.list-unique5 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+.list-unique6 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+	
+	.teamboximg {
+    margin-bottom: 30px;
+}
+	.vision { width: 100%;
+    padding: 15px; height: auto;
+    margin-left: 0;
+}.vision p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 26px;
+}
+	.footer-section { padding: 40px 0px;}
+	
+	.tabtext:after { width: 0; border-right: 0px solid #fff; }
+	.tabtext:before { width: 0; border-right: 0px solid #fff; }
+	
+	ul.list-wcu li {
+    margin: 0 0px 20px 0;
+    float: none;
+    width: 100%;
+    min-height: auto;
+    font-size: 16px;
+    font-weight: 400;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 20px;
+		text-align: center;
+}.about-company-section {
+    
+    padding: 30px 0;
+}
+	.breadcrumb-section .breadcrumb {
+   background-color: transparent;
+    margin: 0px auto;
+    text-align: center;
+    float: none;
+    display: block;
+}.our-secret-text {
+     background-size: contain;
+    min-height: auto;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    width: 100%;
+	min-height: 200px;
+}
+	
+	.our-secret-section h3 {
+    text-align: center;
+     font-size: 28px;
+    padding-top: 16px;
+}
+	.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+}
+ header .navbar {
+    padding: 0.5rem 0rem;
+}.navbar-brand {
+    white-space: normal;
+}.nav-margin {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+	
+	.dropdown-item {
+    font-size: 14px;
+    word-wrap: initial;
+    padding: 5px;
+}
+	
+	
+.carousel-caption {
+    position: absolute;
+    right: 0%;
+    bottom: 48px;
+    left: 5%;
+    z-index: 100000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: left;
+    top: 1%; 
+      width: 80%;
+}
+	.carousel-caption h5 {
+    font-size: 19px;
+    font-weight: 400;
+}
+	.carousel-caption h5 span{ font-weight: 400;}
+	
+	.carousel-caption p { display: none;}
+	.carousel-caption  .morebtn .button-text { text-align: left; }
+	.carousel-caption  .morebtn .circle { display: none;}
+	.carousel-caption h5 { margin-bottom: 0;}
+	
+	.carousel-caption .morebtn { font-size: 14px;}
+	
+	.lets { width:100%;}
+	
+    .hb {
+    display: flex;
+    justify-content: left;
+    position: relative;
+    right: 0px;
+    top: 13px;
+    background: none;
+    color: #a19f9f;
+    padding: 0px 0px;
+    font-size: 16px;
+    left: 0;
+}
+}
+    @media (min-width: 992px){
+ 
+	 .inner-hdng p {
+    font-size: 29px;
+    font-weight: 300;
+    line-height: 42px;
+}
+}
+		
+
+   @media (max-width: 1500px){
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right:0rem;
+ 
+}
+ }
+@media screen and (min-device-width:768px) and (max-device-width:1023px){
+	
+
+	.mobitim-benefit-section h2 {
+    color: #fff;
+    margin-top: 0;
+}
+.herbs-heading {
+    position: relative;
+    top: 0;
+    width: 100%;
+}.herbs-heading h3 {
+    font-size: 16px;
+    line-height: 23px;
+    margin-top: 20px;
+}.herbs-mfp {
+    position: relative;
+    z-index: 1;
+    top: 0;
+    font-size: 83px;
+    font-weight: 600;
+}
+	ul.list-mobitim-benefit li { font-size: 15px; 
+}
+	
+	.list-unique1 ul.list-unique-features li { width: 100%; min-height: auto; text-align: left; }
+		.list-unique2 ul.list-unique-features li { width: 100%; min-height: auto; text-align: left; }
+		.list-unique3 ul.list-unique-features li { width: 100%; min-height: auto; text-align: left; }
+		.list-unique4 ul.list-unique-features li { width: 100%; min-height: auto; text-align: left; }
+	.list-unique5 ul.list-unique-features li { width: 100%; min-height: auto; text-align: left; }
+	
+	
+	.list-unique1 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+	.list-unique2 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+	.list-unique3 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+	.list-unique4 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+	.list-unique5 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+	.list-unique6 ul.list-unique-features li { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+	
+	.university-management-system-bg { 
+    background-position: 60% top;
+}.hrms-bg { 
+    background-position: 80% top;
+}.saas-bg { 
+    background-position: 60% top;
+}.title4 h4 {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 31px;
+}.about-inner-section {
+    border-bottom: 1px solid #f2ecec;
+    padding: 30px 0;
+}.lets h3 {
+    font-size: 26px;
+    font-weight: 600;
+}
+	.list-unique1 ul.list-unique-features li {
+     -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+	.why-custom-development5 ul.list-unique-features li,  .list-unique2 ul.list-unique-features li {
+     -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}	.title3 h3 {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 34px;
+}.mobitim-benefit-section {
+    background-image: url(../images/mobitim-benefit-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 0;
+    background-position: left;
+    min-height: auto;
+    background: #000;
+}
+	.container-gray {
+    padding: 30px 0;
+    background: #f7f7f7;
+}.container70 {
+    padding: 30px 0;
+}
+	.wwr-img:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0%;
+    width: 42vw;
+    background: none;
+    border-radius: 0;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 800px; */
+    height: auto;
+}.wwr-l-h {
+    height: auto;
+}.vision {
+    background: #ffa136;
+    width: 100%;
+    padding: 25px 25px;
+    text-align: center;
+    height: auto;
+    margin-left: 0;
+}.mission {
+    background: #9a67cd;
+    width: 100%;
+    padding: 25px 25px;
+    text-align: center;
+    height: auto;
+    background: rgba(154, 103, 205, 0.8);
+}
+	.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 5%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: left;
+    top: 2%;
+}
+	.carousel-indicators {
+		bottom: 0%;}
+	.carousel-caption h5 {
+    font-size: 26px;
+    font-weight: 200;
+}.carousel-caption p {
+    font-size: 15px;
+    font-weight: 300;
+    width: 66%;
+    line-height: 22px;
+}.counter {
+    margin-bottom: 10px;
+}.mainpoints-box h4 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}.mainpoints-box p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+}.mainpoints-content h3 {
+    color: #fff;
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 44px;
+    margin-right: 20px;
+}.mainpoints-box { 
+    padding: 10px; height: auto;
+}.food-card .card .card-content .description {
+    padding: 0 15px;
+     font-size: 12px;
+    margin: 0;
+    line-height: 16px;
+}.food-card .card .card-content .title {
+    font-size: 15px;
+     padding: 0 15px 2px;
+    line-height: 22px;
+}.subheading h3 {
+    font-size: 22px; 
+}
+	.servicebox { display: block;
+    margin: 0 auto 20px;
+}.clients-section ul.flex-container-modules li {
+    width: 49%;}
+	.tabtextcontent {
+    position: relative;
+    z-index: 1;
+    margin-left: 0;
+    top: 31px;
+    padding: 50px;
+    width: 100%;
+    height: auto;
+}.counter h3 {
+    font-size: 24px;
+    font-weight: 600;
+}
+.footerlogo img {
+    width: 70%;
+}
+.link2 a {
+    font-weight: 500;
+    font-size: 18px; 
+}
+	ul.sicons img{ width:30px
+	}.mainpoints-box {
+    width: 100%;
+   
+}.who-we-are-section {
+    padding: 30px 0;
+    position: relative;
+    margin-bottom: 0;
+}.whowr-section {
+    border-bottom: 1px solid #f2ecec;
+    padding: 30px 0;
+}h2 {
+    font-size: 30px;}.teamboximg {
+    
+    margin-bottom: 20px;
+}.our-secret-text { min-height: 300px; 
+}.case-study-box {
+    margin-left: 0;
+}.h3, h3 {
+    font-size: 24px;
+    font-weight: 600;
+}.inner-banner-section h5 {
+    line-height: 41px;
+}.inner-hdng h5 {
+    font-size: 31px;
+ 
+}.inner-hdng p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+
+
+
+}
+
+
+@media screen and (min-device-width:320px) and (max-device-width:767px){
+	.products-section .row {
+margin-left: -15px;
+}
+	.clients-section ul.flex-container-modules li { width: 100%;}
+	h2{font-size:28px; text-align: center;}
+	.inner-hdng p{ text-align: left;} 
+	p { text-align: center;}
+	.servicebox1 p{text-align: right}
+	.servicebox2 p{text-align: left}
+	.servicebox3 p{text-align: right}
+	.servicebox4 p{text-align: left}
+	.tabtextcontent h3 {
+    text-align: center;
+}
+	.tabtextcontent .morebtn {
+    margin: 0 auto;
+    display: block;
+}
+	.lets .morebtn {
+    margin: 0 auto;
+    display: block;
+}.link2 { 
+    text-align: center;
+}.footerlogo img {
+    margin: 0 auto;
+    display: block;
+}
+	ul.flink li a {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+	.mailftr{  text-align: center;}
+	.nmbr{  text-align: center;}
+	h4{  text-align: center;}
+	.viewall {text-align:center}
+	.servicebox { width: 100%; height: auto; padding: 10px;}
+	.tabtextcontent { position: relative;
+    margin-left: 0;
+    top:0;
+     padding: 20px;
+    width: 100%;
+    height: auto;
+}
+	.products-section .p-0 {
+    padding: 5px 18px!important;
+}
+	.servicebox h3 { font-size: 22px; line-height: 29px; }
+.servicebox p { font-size: 16px; }	
+	.explorebtn a { font-size: 14px;  }
+	.services-section {
+    background: #f6eeff;
+    padding: 30px 0 30px;
+}
+	.mainpoints-content:before { 
+    background: transparent; width: 0;
+}
+	.mainpoints-content h3 {
+    font-size: 17px;
+    line-height: 24px;
+    margin-right: 0px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+	.mainpoints {
+    margin-bottom: 0;
+}
+	.mainpoints-content { 
+    min-height: auto;
+    padding: 20px 20px 10px 20px;
+    margin-top: 20px;
+}
+.mainpoints-box {
+     width: 90%;
+    padding: 10px 10px 0px 10px;
+    margin: 0 auto;
+    display: block;
+    box-shadow: none;
+    height: auto;
+    border-bottom: 1px solid #edecec;
+}.counter {
+    margin-bottom: 0px;
+}.mainpoints-box h4 {
+    font-size: 26px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}.mb1 { top: 0;}
+	.mb2 { top: 0;}
+	.mb3 { top: 0;}
+	.mb4 { top: 0;}
+	.products-section {
+    padding: 40px 0;
+}.subheading h3 {
+    font-size: 20px;
+     margin-bottom: 10px;
+    line-height: 28px;
+}
+	.mainpoints-content h3 span {
+      line-height: 40px;
+}
+    .login-bg { background-size: contain;}
+    .erp-box h3 {
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+    .erp-box {    text-align: center;    padding: 0px 30px;}
+}
+
+@media screen and (min-device-width:1850px) and (max-device-width:3000px){
+	 	.inner-hdng-parent{
+	min-height: 671px;}
+ 
+	.mobile-app-section {
+    background-image: url(../images/mobile-app-section-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: inherit;
+    padding: 80px 0;
+    background-position: center;
+}
+	.mobi-tm {
+    margin-left: 10px;
+}
+	
+	
+	ul.list-mobitim-benefit li {
+    
+    margin: 0 20px 20px 0px;
+    padding: 20px 10px 20px 30px;
+    width: 46%;
+    float: left;
+    position: relative;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    font-size: 18px;
+}
+	.tabtext:before {  width: 31.5vw;  
+}
+	.mainpoints { padding:0;  }
+	.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 5%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: left;
+    top: 19%;
+}.carousel-caption h5 {
+    font-size: 70px;
+    font-weight: 200;
+	    line-height: 80px;
+}
+ .inner-hdng{width: 50%;}
+.carousel-indicators {
+    bottom: 6%;
+    left: 5%;
+    z-index: 15;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: left;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: 0;
+    list-style: none;
+}
+
+}
+ 
+@media (min-width: 768px) {
+
+
+    .dropdown:hover > .dropdown-menu {
+        display: block;
+    }
+
+    .dropdown > .dropdown-toggle:active {
+        /*Without this, clicking will make it sticky*/
+        pointer-events: none;
+    }
+
+    .dropdown-submenu:hover > .dropdown-menu {
+        display: block;
+    }
+}
